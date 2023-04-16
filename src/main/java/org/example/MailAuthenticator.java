@@ -11,8 +11,4 @@ public class MailAuthenticator extends Authenticator {
 
         return new PasswordAuthentication(MailConstants.SENDER, "lomudhsxzpczcuhd");
     }
-
-
-
-
 }
